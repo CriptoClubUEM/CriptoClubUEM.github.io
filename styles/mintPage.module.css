@@ -1,0 +1,22 @@
+.rectangulo {
+  width: 6px;
+  height: 68px;
+  margin-left: 40px;
+  background: #d22029;
+}
+
+.rectangulo_horizontal {
+  width: 92%;
+  height: 5px;
+  margin-left: 2.5rem;
+  background: #cccccc;
+  border-radius: 2.5px;
+}
+
+.rectangulo_horizontal_movil {
+  width: 75%;
+  height: 5px;
+  margin-left: 2.5rem;
+  background: #cccccc;
+  border-radius: 2.5px;
+}

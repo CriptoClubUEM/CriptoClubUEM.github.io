@@ -1,0 +1,16 @@
+.img {
+    position: relative;
+}
+
+.img:hover img {
+    filter: brightness(50%);
+}
+
+.img:hover button {
+    opacity: 1;
+}
+
+.img button {
+    opacity: 0;
+    transition: opacity 0.2s ease-in-out;
+}
